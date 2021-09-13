@@ -6,3 +6,6 @@ Cookie Recipe
 
 Method
 Preheat oven to 180 
+Cream butter and sugar together
+Add flour and mix
+Add egg to mixture 
